@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654369271748",
+    "project_id": "socialbird-c01e2",
+    "storage_bucket": "socialbird-c01e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654369271748:android:4e2133fc42a70cd3d4be91",
+        "android_client_info": {
+          "package_name": "com.example.social_bird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRO3iJYwBz_C8gJ13V2FH5bvV--wc2o7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
